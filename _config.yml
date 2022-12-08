@@ -62,9 +62,9 @@ google_analytics:
 
 
 #google adsenseinfo
-adsense:
-  client:
-  slot:
+#adsense:
+#  client:
+#  slot:
 
 # Prefer color scheme setting.
 #
